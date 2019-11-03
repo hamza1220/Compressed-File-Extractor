@@ -2,6 +2,7 @@
 Extracts .zip and .rar files from a src folder to a dest folder
 
 ### Usage
+Create folders named 'src' and 'dest'  
 Python unzipper.py
 
 ### Setting Up 7-Zip
