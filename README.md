@@ -6,7 +6,7 @@ Create folders named 'src' and 'dest'
 Python unzipper.py
 
 ### Setting Up 7-Zip
-Open the cmd and type:
+Open the cmd and type:  
   pip install patool  
   pip install pyunpack    
 
