@@ -1,4 +1,4 @@
-# Unzipper-Python
+# Compressed File Extractor
 Extracts .zip and .rar files from a src folder to a dest folder
 
 ### Usage
