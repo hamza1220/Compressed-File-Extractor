@@ -5,7 +5,7 @@ Extracts .zip and .rar files from a src folder to a dest folder
 Python unzipper.py
 
 ### Setting Up 7-Zip
-Open the cmd and type:\n
+Open the cmd and type:
   pip install patool  
   pip install pyunpack    
 
